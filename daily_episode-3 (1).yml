@@ -1,0 +1,46 @@
+name: Daily Episode
+
+on:
+  # Runs every weekday at 7 AM Pacific (14:00 UTC)
+  # Adjust the cron if you want weekends or a different time
+  schedule:
+    - cron: '0 14 * * 1-5'
+
+  # Also lets you trigger a run manually from GitHub's Actions tab
+  # with an optional custom topic
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Episode topic (leave blank to use topic.txt)'
+        required: false
+        default: ''
+
+jobs:
+  generate-episode:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run podcast pipeline
+        env:
+          GROQ_API_KEY:          ${{ secrets.GROQ_API_KEY }}
+          ELEVENLABS_API_KEY:    ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID:   ${{ secrets.ELEVENLABS_VOICE_ID }}
+          R2_ACCOUNT_ID:         ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID:      ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY:  ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET_NAME:        ${{ secrets.R2_BUCKET_NAME }}
+          R2_PUBLIC_URL:         ${{ secrets.R2_PUBLIC_URL }}
+          NODE_PUBKEY:           ${{ secrets.NODE_PUBKEY }}
+          EPISODE_TOPIC:         ${{ github.event.inputs.topic }}
+        run: python podcast_pipeline.py
