@@ -1,13 +1,8 @@
 name: Daily Episode
 
 on:
-  # Runs every weekday at 7 AM Pacific (14:00 UTC)
-  # Adjust the cron if you want weekends or a different time
   schedule:
     - cron: '0 14 * * 1-5'
-
-  # Also lets you trigger a run manually from GitHub's Actions tab
-  # with an optional custom topic
   workflow_dispatch:
     inputs:
       topic:
@@ -33,14 +28,12 @@ jobs:
 
       - name: Run podcast pipeline
         env:
-          GROQ_API_KEY:     ${{ secrets.GROQ_API_KEY }}
-          ELEVENLABS_API_KEY:    ${{ secrets.ELEVENLABS_API_KEY }}
-          ELEVENLABS_VOICE_ID:   ${{ secrets.ELEVENLABS_VOICE_ID }}
-          R2_ACCOUNT_ID:         ${{ secrets.R2_ACCOUNT_ID }}
-          R2_ACCESS_KEY_ID:      ${{ secrets.R2_ACCESS_KEY_ID }}
-          R2_SECRET_ACCESS_KEY:  ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          R2_BUCKET_NAME:        ${{ secrets.R2_BUCKET_NAME }}
-          R2_PUBLIC_URL:         ${{ secrets.R2_PUBLIC_URL }}
-          NODE_PUBKEY:           ${{ secrets.NODE_PUBKEY }}
-          EPISODE_TOPIC:         ${{ github.event.inputs.topic }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_PUBLIC_URL: ${{ secrets.R2_PUBLIC_URL }}
+          NODE_PUBKEY: ${{ secrets.NODE_PUBKEY }}
+          EPISODE_TOPIC: ${{ github.event.inputs.topic }}
         run: python podcast_pipeline.py
