@@ -1,117 +1,14 @@
-# The Death of the "Boomer Dream" Portfolio
-**The Canadian Numbers Guy — Episode Script**
-*Target runtime: ~18-20 minutes*
-
----
-
-[Intro Music: Energetic, fast-paced, modern]
-
-**Host:**
-
-"If you talk to our parents, they'll tell you there are only two ways to build wealth: buy a house, and stick the rest in a 'balanced' 60/40 portfolio. Stocks for growth, bonds for safety, real estate underneath it all as the floor that can never fall through.
-
-For Millennials and Gen Z in 2026, that advice doesn't sound like a roadmap anymore. It sounds like a fairytale written about a country that doesn't exist anymore.
-
-Today we're tearing down the 60/40 model. We're looking at why 'just buy a house' has actually become a liability for a lot of young Canadians. And we're building the replacement — not one portfolio, but the framework that works whether you're starting from zero, sitting on capital that's parked too conservatively, or just opened your first account ever.
-
-Let's get into the numbers."
-
-[Sound effect: Sharp, synthetic 'ping']
-
----
-
-## Segment 1: The 60/40 Myth
-
-"Start with the 60/40. Sixty percent stocks, forty percent bonds. For about four decades this was the gold standard, and for good reason — it worked. When stocks crashed, bonds usually held the line or even rallied, because investors fled risk and ran straight into safety. That negative correlation is the entire engine of the strategy. Stocks zig, bonds zag, your portfolio doesn't fall off a cliff.
-
-That engine has been sputtering. 2022 was the textbook failure case: stocks and bonds dropped together, in the same year, for one of the only times in modern history. Why? Inflation. When inflation runs hot, central banks hike rates — and rate hikes hurt bonds and stocks at the same time. The thing that was supposed to protect you stopped protecting you, exactly when you needed it most. And we're still living in a higher-for-longer rate environment that makes bonds a much less obvious 'safe' anchor than they were for our parents' generation.
-
-I'm not telling you the 60/40 is dead. It's not. But it's not a complete plan anymore — it's a relic of an environment built on decades of falling interest rates. If you're in your twenties or thirties and you need growth for the next thirty years, parking forty percent of your money in bonds isn't safety. It's drag. You're choosing to underperform inflation in exchange for protection that didn't even show up the last time you needed it."
-
-[Sound effect: ping]
-
----
-
-## Segment 2: The Real Estate Trap
-
-"Now, the House. In this country we've been conditioned since birth to believe a house is the only legitimate measure of financial success. Buy it, and you've made it. Don't, and you're falling behind.
-
-Here's what Statistics Canada actually found when they compared generations at the same life stage. Adjusted for people still living with their parents, millennials aged 25 to 39 have a homeownership rate of 49.9%. Gen X, at that same age, was at 56.2%. Boomers, at that same age, were at 55.9%. That's not a vibe. That's a measured, six-to-seven-point generational decline in ownership, apples to apples.
-
-And in the cities where the jobs actually are — Toronto, Vancouver — it's worse. The share of young people still living with parents in Toronto has more than doubled since the early nineties. We're not talking about a generation that's lazy or bad with money. We're talking about a generation priced out by an asset class that's appreciated faster than wages for thirty straight years.
-
-So here's the uncomfortable part. If you force a home purchase anyway — stretch your income, drain every dollar of liquidity, take on the maximum mortgage the bank will hand you — you're not making a diversified investment. You're making one enormous, illiquid, leveraged bet on a single property in a single city. That's not what wealthy people do with their money. That's risk concentration with a nice paint job.
-
-For a lot of people in 2026, renting and investing the difference isn't a consolation prize. It's the smarter move. It's the path to liquid, diversified wealth that doesn't require you to gamble your entire net worth on one address."
-
-[Sound effect: ping]
-
----
-
-## Segment 3: "But Won't I Need a House Eventually?"
-
-"Quick gut check before we move on, because I know what some of you are thinking — 'so you're telling me to just rent forever?' No. I'm telling you to stop treating homeownership as the *only* acceptable outcome, and start treating it as one possible outcome among several, that you get to choose once you actually have the liquid net worth to choose it from a position of strength.
-
-Here's the difference: someone who spent their twenties and thirties stuffing every spare dollar into a down payment fund that never quite gets there is stuck. Someone who spent that same decade building a diversified, liquid portfolio can buy a house in their forties with cash flexibility — or not buy one at all, and just keep compounding. One of those people has options. The other doesn't. The goal isn't anti-homeownership. The goal is not letting homeownership be the thing your entire financial life is hostage to."
-
-[Sound effect: ping]
-
----
-
-## Segment 4: The New Portfolio
-
-"So if the down payment isn't where the money goes, where does it go? Here's the shift I'm watching happen in real time among the investors who actually get it.
-
-**The Foundation — Global Equities.** Forget stock picking. Forget trying to out-trade the market. The single biggest evolution in Canadian retail investing over the last five years is the all-in-one asset allocation ETF — XEQT, VEQT, whichever flavour you prefer. One ticker, one click, and you own thousands of companies across every developed and emerging market on Earth. It's cheap, it's instant diversification, and it kills the most expensive habit in investing: overthinking your own portfolio. This is your base. This is what your money does every single payday before you think about anything else.
-
-**The Hedge, Reframed — Bitcoin and Gold.** Here's where I have to correct the record on something, because the old pitch has gone stale and the data doesn't back it up anymore. For years the story was 'Bitcoin is an uncorrelated hedge, just like the older generation used real estate.' That story is dead. As of this year, Bitcoin's correlation to the S&P 500 has hit some of the highest readings on record — it's been trading less like digital gold and more like a leveraged tech stock. When equities sell off hard, Bitcoin has increasingly been selling off right alongside them, not in spite of them.
-
-So what is Bitcoin actually offering you in 2026? Not diversification. Asymmetric upside. It's a high-volatility, high-beta bet on a specific thesis — fixed supply, currency debasement, generational adoption — and that bet can absolutely pay off. But don't lie to yourself about what it is. Size it like the volatile, correlated asset it currently behaves like, not like insurance.
-
-If you actually want the uncorrelated, debasement-hedge role that real estate used to play, gold is doing more of that job right now than Bitcoin is. It's boring, it doesn't trend on social media, and it's quietly done what a hedge is supposed to do this cycle. Keep the categories straight in your head: gold for the hedge, Bitcoin for the asymmetric bet. Don't let one ticker try to do both jobs at once.
-
-**Tax Optimization — The TFSA.** Last piece, and it's the one people screw up the most. Stop treating your TFSA like a high-interest savings account with a couple of GICs parked in it. For 2026, the annual contribution room is $7,000 — and if you've been eligible since 2009 and never touched it, you're sitting on well over $100,000 in available room. Every dollar of growth inside that account is tax-free, forever. No capital gains tax, no dividend tax, nothing, ever — even when you pull it out.
-
-If you've got decades until retirement, your TFSA is not where your boring, stable holdings belong. It's where your highest-growth, highest-volatility assets belong — the ones with the most room to compound — because every dollar of gain in there is a dollar the CRA never touches. Save the non-registered account for the boring stuff. Let the TFSA carry the asset that's actually going to move the needle."
-
-[Sound effect: ping]
-
----
-
-## Segment 5: What This Actually Looks Like — Three Accounts, Three Realities
-
-"So what does this look like in an actual account, not in theory? Here's the thing — 'the new portfolio' isn't one allocation. It's a framework that answers differently depending on where you're actually standing. Let's run it three ways, because this show isn't just for one type of listener.
-
-**Builder — early-to-mid career, building from near zero.** This is the person stretched between rent and savings, no inheritance coming, no down payment fund that's ever going to catch up to the market. For you, the architecture is what we just walked through: the majority of every contribution into a single asset allocation ETF, XEQT or VEQT, on autopilot, every payday, no exceptions. A smaller slice into the hedge — gold and Bitcoin — sized so a forty percent drawdown in either one doesn't touch your sleep. TFSA filled first, with the highest-growth piece of that mix, before a single dollar touches a taxable account. No stock picking, no checking the portfolio four times a day, no trying to time the next housing dip so you can finally 'get in.' Just the base, the hedge, and the tax-free wrapper, compounding in the background, year after year.
-
-**Optimizer — already has capital, parked too conservatively.** This is a different problem entirely, and it's the one a lot of people closer to retirement, or who've already built some wealth, are actually sitting in. If that's you, the issue usually isn't growth — it's that too much of the money is sitting somewhere safe-feeling that's quietly losing. Run the actual math: a typical one-year GIC right now pays under 4%. Inflation, as of April, is sitting at 2.8%. That's a real return of well under one percent — barely positive, and that's before you account for the fact that GIC interest in a non-registered account gets taxed as regular income, which can push the real, after-tax return negative. Cash and GICs absolutely have a job — short-term needs, a true emergency fund, capital you can't afford to see drop. But beyond that job, parking long-term money there isn't safety, it's a slow leak.
-
-The second piece for this group is tax sequencing, and it's the one thing nobody explains clearly. If you're earning at or near your peak income now, an RRSP contribution is doing real work — it's deducted at your current, higher tax bracket, and you withdraw it later, in retirement, when your income and your tax bracket are typically lower. That gap between the bracket you deduct at and the bracket you withdraw at is free money, every single year you contribute. The TFSA still matters here too — it's where the growthiest, most volatile piece of the portfolio should live, same as for the Builder — but for someone at peak earning years, RRSP room left unused is a discount you're declining to take.
-
-**Starter — just graduated, first dollar to invest, little to no capital yet.** Different question entirely: not 'how do I optimize this,' but 'where does the very first dollar actually go.' Answer: it doesn't go to picking a winning stock, and it doesn't go to a high-interest savings account waiting for 'the right time.' Step one is the TFSA, opened immediately, even with fifty dollars in it — because contribution room has been accumulating since you turned eighteen whether you've used it or not, and that room doesn't come back later. Step two is one asset allocation ETF, the exact same XEQT or VEQT the Builder is using, bought in tiny, consistent amounts, on a schedule, the moment there's anything to invest — not after you've saved up to some arbitrary 'real' starting amount. The entire point at this stage isn't the dollar figure, it's building the automatic habit before life gets complicated enough to talk you out of it. Get the mechanism running now, while the amounts are small and the mistakes are cheap. The compounding does the rest."
-
-[Sound effect: ping]
-
----
-
-## [Conclusion]
-
-"Three different starting points, three different problems — but the same underlying principle: stop letting cash and 'safe-feeling' defaults quietly lose to inflation, stop treating one house as the only acceptable outcome, and use the tax-advantaged accounts this country actually gives you instead of ignoring them.
-
-The 60/40 portfolio is a starting point, not a finish line. The house is one path to wealth — not the only one. Whether you're starting from nothing, sitting on capital that's underworking, or just opened your first account — build a portfolio that's actually built for the economy you're living in, not the one your parents bought their house in.
-
-I'm the Canadian Numbers Guy. Keep the data honest, and I'll see you in the next one."
-
-[Outro Music]
-
----
-
-## Pro-Tips for Delivery
-
-- **Be blunt on real estate** — don't sugarcoat it. For most young Canadians right now, forcing a home purchase is a concentration-of-risk play, not a diversification play. Segment 3's rebuttal exists so this doesn't come off as "renting forever" — use it to land the nuance, not soften the main point.
-- **Lead with the StatsCan number** in Segment 2 (49.9% vs 56.2% vs 55.9%) — sharper, more credible hook than "lowest homeownership rate ever," and exactly the kind of hard, sourced number that fits the brand.
-- **The Bitcoin segment changed for a reason**: the original "lower correlation than bonds" claim doesn't hold up against 2026 data — Bitcoin's correlation to the S&P 500 hit record highs this year. The new framing (asymmetric bet, not hedge) is a stronger, more contrarian-sounding take than the original, and it won't get you fact-checked in the comments.
-- **Segment 5 is the structural change this draft made** — instead of one allocation for one imagined listener, it's three real tracks: Builder (early career, near zero capital), Optimizer (already has capital, parked too conservatively — this is your sister/parents' segment), and Starter (just graduated, first dollar — your niece's segment). Don't rush through all three back to back; give each its own beat, since each one is solving a genuinely different problem, not a variation on the same advice.
-- **The GIC math in the Optimizer section is the sharpest number in the episode** — under 4% nominal, 2.8% inflation, real return barely above zero, often negative after tax. That's the kind of "your parents' safe choice is quietly losing" line that fits the brand's whole premise.
-- **The RRSP point is new and only applies to the Optimizer track** — don't generalize it to the Builder or Starter segments, since RRSP only pays off when you're deducting at a high bracket now and withdrawing at a lower one later. Saying "everyone should max their RRSP" would be wrong for someone early-career in a low bracket.
-- **Tone check**: you're the guide explaining how the system actually works, not how the bank ads say it works. Stay sharp, stay impatient with the old advice, but let Segment 3 and the three-track structure in Segment 5 show this isn't just a contrarian take aimed at one demographic — it's actually built for whoever's listening.
+Podcast Script: The May CPI "Headfake"
+(Music: Quick, high-energy transition into your voice)
+The May CPI dropped this morning: 3.2% year-over-year.
+The street called 3.0%. We came in 20 basis points hotter. And right on cue, the 'Inflation is back' takes are already writing themselves.
+Here's the reality: they're looking at the noise. I'm looking at the signal.
+That headline number is being pulled by one thing — gasoline, up 33.2% year-over-year in May. Third consecutive month of energy-driven acceleration. The reason is specific: the closure of the Strait of Hormuz, the chokepoint that handles roughly a fifth of global oil supply, shut down by the ongoing Middle East conflict. This is not a domestic spending problem. This is not Canadian consumers going reckless. This is a geography problem on the other side of the planet.
+Now here's where the media gets it wrong. Strip out gasoline, and CPI rises 2.2% — up modestly from 2.0% in April, which is worth noting. But the number that actually guides Bank of Canada decisions? CPI-trim sits at 2.0%. CPI-median at 2.1%. Those are the BoC's two preferred core measures. Both unchanged from April. Both right on target.
+And here's the piece almost nobody is going to mention today: Canada is in a technical recession. Two consecutive quarters of negative GDP. Q4 2025 contracted at an annualized 1.0%. Q1 2026 contracted again. Unemployment is sitting between 6.5 and 7 percent. The largest component of the CPI basket — shelter, at roughly 30% of the index — has been decelerating for over a year. Mortgage costs have fallen year-over-year for thirty-three straight months.
+Now, I'll be precise: not everything outside energy is clean. Grocery prices are running hot. Fresh vegetables up 9.0%. Tomatoes up 45.2% year-over-year — because of supply contractions in Mexico tied to US tariff policy and bad weather. But the Bank of Canada is not going to hike rates to bring down tomato prices caused by Mexican farm policy. That's not how monetary policy works. That's the noise.
+The takeaway for your portfolio and your wallet: the 'hike-now' narrative has no foundation in the numbers the BoC actually uses. CPI-trim says 2.0%. The economy is in contraction. The energy spike is geopolitical and three months running. Bond markets agree — they're pricing a 7% probability of a July hike. Seven percent.
+I'm watching July 15th. I'm tracking the core. And I'm ignoring the gas pump.
+Stay analytical. See you next time."
+(Music: Outro fades)
+The main structural upgrade: you now go from "here's the noisy headline → here's the real signal → here's the macro context that makes hiking absurd → here's the specific data the hawks can't answer." That's a tighter argument and the recession point lands like a gut punch right when listeners think you're done making the case.
